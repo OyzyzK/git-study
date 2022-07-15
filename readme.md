@@ -1,4 +1,2 @@
 #First Git course
-crashtest
-hadeshadeshades
-lalalalalalalala
+My own practice in git.
